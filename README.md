@@ -8,7 +8,7 @@ I wanted to create phisical interface for web radio with LCD and some buttoms to
 Raspberry PI is connected to amplifier through HDMI. For web radio player mpd/mpc is used.
 
 Final look:
-<img src="https://github.com/jackonii/radio/blob/main/dokumentacja/radio4.jpg">
-<img src="https://github.com/jackonii/radio/blob/main/dokumentacja/radio3.jpg">
+<img src="https://github.com/jackonii/radio/blob/main/docs/radio4.jpg">
+<img src="https://github.com/jackonii/radio/blob/main/docs/radio3.jpg">
 
-Wiring and schema are inside "dokumentacja" folder.
+Wiring and schema are inside "docs" folder.
